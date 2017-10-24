@@ -1,0 +1,2 @@
+recursive-include duedrops/templates *
+recursive-include duedrops/static *
